@@ -2,6 +2,8 @@ Index
 -----
 
 * [Shell](#shell)
+* [Export](#export)
+* [Import](#import)
 
 Shell
 -----
@@ -17,3 +19,16 @@ Here's a list of probably the most useful commands:
 * `\!` to start a new UNIX shell inside your psql shell (exiting the UNIX shell will bring you back in the psql shell)
 
 If you want to enable `\timing` and `\x auto` by default, put them in a `~/.psqlrc` file.
+
+Export
+------
+
+Exporting as a csv:
+`\copy some_table TO '/path/to/csv' DELIMITER ';' CSV HEADER`
+
+
+Import
+------
+
+Importing a csv:
+`\copy some_table FROM '/path/to/csv' DELIMITER ';' CSV HEADER`
