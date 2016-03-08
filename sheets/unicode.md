@@ -25,3 +25,5 @@ Miscellaneous
 | Symbol | Code | Description |
 |---|---|---|
 | `☃` | 2603 | Snowman |
+| `✓` | 2713 | Check |
+| `✗` | 2717 | Ballot cross |
