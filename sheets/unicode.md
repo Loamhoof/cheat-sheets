@@ -18,6 +18,7 @@ Math Symbols
 | Symbol | Code | Description |
 |---|---|---|
 | `∈` | 2208 | Element of |
+| `∅` | 2205 | Empty set |
 
 Miscellaneous
 -------------
