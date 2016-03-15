@@ -3,6 +3,7 @@ Index
 
 * [Install GHC & Cabal](#install-haskell)
 * [New project](#new-project)
+* [Shell](#shell)
 
 
 Install Haskell
@@ -26,3 +27,12 @@ New Project
 ```bash
 cabal sandbox init
 ```
+
+Shell
+-----
+
+* `:t` inspects the type.
+* `:i` gets info about the type.
+* `:k` inspects the kind.
+* `:set -X<extension>` sets the extension `<extension>` (e.g. `UnicodeSyntax`)
+* `:! <command>` executes the shell `<command>`.
