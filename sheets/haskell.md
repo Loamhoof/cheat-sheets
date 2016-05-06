@@ -35,4 +35,5 @@ Shell
 * `:i` gets info about the type.
 * `:k` inspects the kind.
 * `:set -X<extension>` sets the extension `<extension>` (e.g. `UnicodeSyntax`)
+* `:set +m` sets the multiline mode.
 * `:! <command>` executes the shell `<command>`.
