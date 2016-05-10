@@ -8,4 +8,5 @@ Index
 * [Mongo](sheets/mongo.md)
 * [Postgres](sheets/postgres.md)
 * [Redis](sheets/redis.md)
+* [Bash](sheets/bash.md)
 * [Unicode](sheets/unicode.md)
