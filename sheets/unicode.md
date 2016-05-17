@@ -8,23 +8,23 @@ Index
 Letters
 -------
 
-| Symbol | Code | Description |
+| Symbol | Code (hex) | Code (dec) | Description |
 |---|---|---|
-| `ō` | 014D | Small o with macron |
+| `ō` | 014D | 333 | Small o with macron |
 
 Math Symbols
 ------------
 
-| Symbol | Code | Description |
+| Symbol | Code (hex) | Code (dec) | Description |
 |---|---|---|
-| `∈` | 2208 | Element of |
-| `∅` | 2205 | Empty set |
+| `∈` | 2208 | 8712 | Element of |
+| `∅` | 2205 | 8709 | Empty set |
 
 Miscellaneous
 -------------
 
-| Symbol | Code | Description |
+| Symbol | Code (hex) | Code (dec) | Description |
 |---|---|---|
-| `☃` | 2603 | Snowman |
-| `✓` | 2713 | Check |
-| `✗` | 2717 | Ballot cross |
+| `☃` | 2603 | 9731 | Snowman |
+| `✓` | 2713 | 10003 | Check |
+| `✗` | 2717 | 10007 | Ballot cross |
