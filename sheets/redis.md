@@ -1,7 +1,13 @@
 Index
 -----
 
+* [Commands](#commands)
 * [Backup](#backup)
+
+Commands
+--------
+
+* Del all keys matching a certain pattern: `redis-cli --raw KEYS "$PATTERN" | xargs redis-cli DEL`
 
 Backup
 ------
