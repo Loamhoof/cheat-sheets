@@ -28,3 +28,4 @@ Miscellaneous
 | `☃` | 2603 | 9731 | Snowman |
 | `✓` | 2713 | 10003 | Check |
 | `✗` | 2717 | 10007 | Ballot cross |
+| `⚠` | 26A0 | 9888 | Warning sign |
