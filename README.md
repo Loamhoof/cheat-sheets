@@ -5,6 +5,7 @@ Index
 -----
 
 * [Bash](sheets/bash.md)
+* [Git](sheets/git.md)
 * [Haskell](sheets/haskell.md)
 * [Mongo](sheets/mongo.md)
 * [Postgres](sheets/postgres.md)
